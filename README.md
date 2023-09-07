@@ -20,9 +20,9 @@
 
 以下是我在GitHub上的一些开源项目：
 
-- [项目1]([http://sports.jmuie.com/])): 体育健康项目
-- [项目2]([http://eline.jmuie.com/])): 分仓系统
-- [项目3]([(http://www.reax.top/backend/page/login/login.html)): 点餐管理
+- 项目1: [体育健康项目](http://sports.jmuie.com/)
+- 项目2: [分仓系统](http://eline.jmuie.com/)
+- 项目3: [点餐管理](http://www.reax.top/backend/page/login/login.html)
 
 ## 联系方式
 
